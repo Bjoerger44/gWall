@@ -6,10 +6,7 @@ module.exports = {
   development: {
     client: 'pg',
     connection:'postgres://localhost/gWall'
-    }
-
-
-
+  },
 
   production: {
     client: 'pg',
